@@ -1,0 +1,22 @@
+[
+  {"id":1,"title":"Subway Sneak","scene":"subway","objective":"Grab the blue diamond without touching the police light.","target":"diamond","npc":"commuter","trap":"police-light","difficulty":"easy","reward":120},
+  {"id":2,"title":"Old Lady Bag","scene":"street","objective":"Reach the handbag while avoiding the angry dog.","target":"bag","npc":"old-lady","trap":"dog","difficulty":"easy","reward":140},
+  {"id":3,"title":"Mall Escape","scene":"mall","objective":"Take the wallet and slip behind the escalator.","target":"wallet","npc":"shopper","trap":"camera","difficulty":"easy","reward":160},
+  {"id":4,"title":"Museum Laser","scene":"museum","objective":"Steal the ruby through moving laser beams.","target":"ruby","npc":"guard","trap":"laser","difficulty":"normal","reward":180},
+  {"id":5,"title":"Bank Counter","scene":"bank","objective":"Pull the cash bag before the guard turns around.","target":"cash","npc":"banker","trap":"guard","difficulty":"normal","reward":220},
+  {"id":6,"title":"Rooftop Chase","scene":"rooftop","objective":"Swing across the roof to collect the golden watch.","target":"watch","npc":"police","trap":"gap","difficulty":"normal","reward":240},
+  {"id":7,"title":"Airport Scan","scene":"airport","objective":"Slip the passport case past the scanner.","target":"case","npc":"security","trap":"scanner","difficulty":"normal","reward":260},
+  {"id":8,"title":"Casino Chips","scene":"casino","objective":"Collect the chip stack while dodging spotlights.","target":"chips","npc":"dealer","trap":"spotlight","difficulty":"normal","reward":280},
+  {"id":9,"title":"Moving Train","scene":"train","objective":"Grab the briefcase before the doors close.","target":"briefcase","npc":"businessman","trap":"door","difficulty":"hard","reward":320},
+  {"id":10,"title":"Diamond Vault","scene":"vault","objective":"Crack the path and touch the diamond core.","target":"diamond-core","npc":"vault-bot","trap":"laser-grid","difficulty":"hard","reward":380},
+  {"id":11,"title":"Night Market","scene":"market","objective":"Take the magic coin while cats block the path.","target":"coin","npc":"vendor","trap":"cats","difficulty":"hard","reward":420},
+  {"id":12,"title":"Office Heist","scene":"office","objective":"Steal the keycard from the desk.","target":"keycard","npc":"manager","trap":"camera","difficulty":"hard","reward":450},
+  {"id":13,"title":"Robot Hall","scene":"lab","objective":"Collect the energy orb while robots patrol.","target":"orb","npc":"scientist","trap":"robot","difficulty":"hard","reward":480},
+  {"id":14,"title":"VIP Party","scene":"party","objective":"Snatch the necklace under neon lights.","target":"necklace","npc":"vip","trap":"bouncer","difficulty":"hard","reward":520},
+  {"id":15,"title":"Underground Tunnel","scene":"tunnel","objective":"Reach the hidden treasure with limited energy.","target":"treasure","npc":"rat","trap":"steam","difficulty":"hard","reward":560},
+  {"id":16,"title":"Prison Break","scene":"prison","objective":"Steal the keys and escape the cell block.","target":"keys","npc":"warden","trap":"bars","difficulty":"hard","reward":620},
+  {"id":17,"title":"Cyber Room","scene":"cyber","objective":"Take the NFT badge from the AI terminal.","target":"nft","npc":"ai-guard","trap":"firewall","difficulty":"hard","reward":680},
+  {"id":18,"title":"Luxury Yacht","scene":"yacht","objective":"Collect the pearl while waves move the deck.","target":"pearl","npc":"captain","trap":"wave","difficulty":"hard","reward":720},
+  {"id":19,"title":"Secret Temple","scene":"temple","objective":"Pull the ancient gem before the floor collapses.","target":"ancient-gem","npc":"monk","trap":"floor","difficulty":"hard","reward":780},
+  {"id":20,"title":"Boss Final Heist","scene":"boss","objective":"Beat the boss guard and claim the golden NFT.","target":"gold-nft","npc":"boss","trap":"mega-laser","difficulty":"boss","reward":1000}
+]
