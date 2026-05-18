@@ -1,4 +1,4 @@
-# Thief Puzzle Clean New
+# Thief Puzzle
 
 A lightweight 20-level cartoon puzzle game built with Next.js, TailwindCSS, Zustand, Framer Motion, and ethers.
 
